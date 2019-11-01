@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*Immigration in Barcelona - Analysis*
 
-*[Your Cohort, Campus & Date]*
+*DA - BCN - 31.10.2019*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,28 +16,54 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+The purpose of this project is to analyze the immigrant population in Barcelona for the year 2017.
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+- Descriptive analysis about the immigrant population in Barcelona.
+- Where do most immigrants in Barcelona come from?
+- Is any range of age predominant? And any gender?
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+
+All datasets we used to this analysis come from 'open data barcelona'.
+
+immigrants-by-nationality.csv
+immigrants-emigrants-by-age.csv
+immigrants-emigrants-by-destination.csv
+immigrants-emigrants-by-sex.csv
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+We have worked with several tables, one for each topic we wanted to analyze: 'Nationality','Gender', 'Age'.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+-Filling up Trello
+-Creating a git ignore file
+-Choosing the main question.
+-Thinking which kind of data we needed.
+-Finding the right data.
+-Cleaning the data.
+-Analyzing the data.
+-Google clouds account.
+-Preparing the presentation.
+-Updating the README.
 
 ## Organization
-How did you organize your work? Did you use any tools like a kanban board?
+We used Trello to organize our work and deadlines.
 
-What does your repository look like? Explain your folder and file structure.
+Our repository has three main files:
+- 'Datasets'
+- 'Pictures'
+- 'Your-project'
+
+Inside datasets we have the original datasets in one folder, and the cleaned datasets in a second folder.
+
+Inside pictures, you will find a Trello screenshot about our project.
+
+In Your-project we have our analysis.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/estefaniaespinar/Project-Week-2-Barcelona)  
+[Slides](https://docs.google.com/presentation/d/127gyy1C4qy9e0Pu7ljRuIjTVBO2l3aIbFKvSmuH5SVc/edit#slide=id.p)  
+[Trello](https://trello.com/b/7qVrOz2D)  
